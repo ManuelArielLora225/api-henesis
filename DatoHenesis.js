@@ -2,6 +2,7 @@
 
  const Henesis = [
   {
+    id: 1,
     nombre: "Rostro",
     nivel: 5,
     razones: [
@@ -16,7 +17,8 @@
        "Su rostro tiene una calidez tan única que con solo mirarlo siento que todo está bien, como si fuera el lugar al que siempre quiero volver."
     ]
   },
-  {
+{
+     id: 2,
     nombre: "Cuerpo",
     nivel: 5,
     razones: [
@@ -33,6 +35,7 @@
     ]
   },
   {
+     id: 3,
     nombre: "Estilo",
     nivel: 5,
     razones: [
@@ -49,6 +52,7 @@
     ]
   },
   {
+    id: 4,
     nombre: "Sonrisa",
     nivel: 5,
     razones: [
@@ -66,6 +70,7 @@
     ]
   },
   {
+    id: 5,
     nombre: "Mirada",
     nivel: 4,
     razones: [
@@ -83,6 +88,7 @@
     ]
   },
   {
+    id: 6,
     nombre: "Actitud",
     nivel: 5,
     razones: [
@@ -99,6 +105,7 @@
     ]
   },
   {
+    id: 7,
     nombre: "Ternura",
     nivel: 5,
     razones: [
@@ -116,6 +123,7 @@
     ]
   },
   {
+    id: 8,
     nombre: "Feminidad",
     nivel: 5,
     razones: [
@@ -132,6 +140,7 @@
     ]
   },
   {
+    id: 9,
     nombre: "Autenticidad",
     nivel: 5,
     razones: [
@@ -148,6 +157,7 @@
     ]
   },
   {
+    id: 10,
     nombre: "Sensualidad",
     nivel: 10,
     razones: [
